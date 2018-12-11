@@ -1,0 +1,10 @@
+https://developers.google.com/calendar/v3/reference/events
+
+https://developers.google.com/calendar/quickstart/dotnet
+
+https://developers.google.com/calendar/create-events
+
+https://docs.microsoft.com/en-us/graph/api/calendar-post-events?view=graph-rest-1.0
+
+
+https://stackoverflow.com/questions/23310152/google-calendar-api-adding-an-event-to-someones-calendar-just-by-knowing-their
